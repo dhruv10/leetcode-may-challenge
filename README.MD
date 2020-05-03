@@ -1,6 +1,6 @@
 # Leetcode May Challenge
 
-> Note: I push my solutions after the submission time to be eligible for prizes ends to abide by the challenge rules.
+> Note: I push my solutions after the submission time ends to abide by the challenge rules.
 
 
 ### Directory structure
