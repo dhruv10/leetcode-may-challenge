@@ -11,5 +11,3 @@
   submission.cpp  // code submitted on leetcode
   a.out           // executable output file
 ```
-
-Resuming challenge locally.
